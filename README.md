@@ -1,5 +1,5 @@
 # hrproject
-##
+## Descriptions
 I am currently learning how to do the data visualization on Python by myself. This project wants to find 
 which candidates are really wants to work for the company after training or looking for a new employment. The project uses some data visualizations
 to differentiate job seekers and non job seekers.
@@ -21,3 +21,8 @@ to differentiate job seekers and non job seekers.
 - lastnewjob: Difference in years between previous job and current job
 - training_hours: training hours completed
 - target: 0 – Not looking for job change, 1 – Looking for a job change
+## Conclusions 
+The dataset divided to train set and test set. After creating several data visualizations, I found that these two datasets are similar. 
+Then, I use train set to analyze the features of job seekers and non job seekers.
+<br/>
+Basically, most job seekers have 2-6 years experience and people who have over 20 years of work experience are mostly non job seekers. 
