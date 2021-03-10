@@ -1,7 +1,7 @@
 # hrproject
 ##
 I am currently learning how to do the data visualization on Python by myself. This project wants to find 
-which candidates are really wants to work for the company after training or looking for a new employment. The project use some data visualizations
+which candidates are really wants to work for the company after training or looking for a new employment. The project uses some data visualizations
 to differentiate job seekers and non job seekers.
 <br/>The code of this project is referenced from: https://www.kaggle.com/joshuaswords/awesome-hr-data-visualization-prediction
 <br/>In addition, this Python notebook using data is from https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists
